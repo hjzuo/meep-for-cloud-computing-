@@ -1,0 +1,1 @@
+rm *.h5 *.dat *.out *.png
