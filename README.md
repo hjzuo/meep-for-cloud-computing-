@@ -1,1 +1,1 @@
-# meep for icloud computing in AWS
+# meep for cloud computing in AWS
